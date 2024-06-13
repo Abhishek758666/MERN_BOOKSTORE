@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "George Orwell",
+    "title": "1984: A Dystopian Novel of Totalitarianism and Surveillance",
+    "price": 9.99,
+    "category": "Paid",
+    "image": "/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "J.K. Rowling",
+    "title": "Harry Potter and the Sorcerer's Stone: The Beginning of the Magical Journey",
+    "price": 0.0,
+    "category": "Free",
+    "image": "/book.jpg"
+  },
+  {
+    "id": 3,
+    "name": "J.R.R. Tolkien",
+    "title": "The Hobbit: There and Back Again, A Fantasy Adventure",
+    "price": 10.99,
+    "category": "Paid",
+    "image": "/book.jpg"
+  },
+  {
+    "id": 4,
+    "name": "F. Scott Fitzgerald",
+    "title": "The Great Gatsby: A Tale of the Jazz Age and Lost Dreams",
+    "price": 0.0,
+    "category": "Free",
+    "image": "/book.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Harper Lee",
+    "title": "To Kill a Mockingbird: A Story of Racial Injustice and Childhood Innocence",
+    "price": 0.0,
+    "category": "Free",
+    "image": "/book.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mary Shelley",
+    "title": "Frankenstein: The Modern Prometheus, A Gothic Horror Classic",
+    "price": 6.99,
+    "category": "Paid",
+    "image": "/book.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Herman Melville",
+    "title": "Moby-Dick: The Whale, An Epic Tale of Obsession and Revenge",
+    "price": 11.99,
+    "category": "Paid",
+    "image": "/book.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Jane Austen",
+    "title": "Pride and Prejudice: A Romantic Novel of Manners and Marriage",
+    "price": 9.49,
+    "category": "Paid",
+    "image": "/book.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Mark Twain",
+    "title": "Adventures of Huckleberry Finn: A Journey Down the Mississippi River",
+    "price": 0.0,
+    "category": "Free",
+    "image": "/book.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Gabriel Garcia Marquez",
+    "title": "One Hundred Years of Solitude: A Landmark in Magical Realism Literature",
+    "price": 0.0,
+    "category": "Free",
+    "image": "/book.jpg"
+  }
+]
