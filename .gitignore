@@ -1,0 +1,108 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build directories
+/build
+/dist
+/public/build
+
+# Next.js build output
+.next/
+
+# Serverless directories
+.serverless/
+
+# Temporary files
+*.swp
+*.swo
+*.swn
+*.sml
+*.pid
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Mac specific files
+*.DS_Store
+
+# Linux specific files
+*.directory
+
+# Windows specific files
+desktop.ini
+
+# SASS cache
+.sass-cache
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env.test
+.env.production
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Optional REPL history
+.node_repl_history
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Parcel-bundler cache (if using Parcel)
+.cache
+.parcel-cache
+
+# Storybook files
+.out/
+.storybook-out/
+storybook-static/
+
+# Pnpm
+.pnpm-debug.log
+
+# Prisma
+prisma/migrations/
+prisma/.env
+
+# Nuxt
+.nuxt/
+output/
+
+# VuePress
+.vuepress/dist
+
+# Local build directory
+.local/
