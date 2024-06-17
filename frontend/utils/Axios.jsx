@@ -1,4 +1,4 @@
 import axios from "axios";
 export const Instance = axios.create({
-  baseURL: "http://localhost:4001",
+  baseURL: "https://mern-bookstore-backend-bog2.onrender.com/",
 });
