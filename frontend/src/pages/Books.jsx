@@ -31,7 +31,7 @@ const Books = ({ books, loggedUser }) => {
           </label>
         </div>
 
-        <div className="flex gap-0 justify-center flex-wrap py-10">
+        <div className="flex gap-10 justify-center flex-wrap py-10">
           {books.map((book, i) => {
             return <Card book={book} key={i} />;
           })}

@@ -3,9 +3,13 @@ import React from "react";
 const Card = ({ book }) => {
   return (
     <div className="mx-5">
-      <div className="card w-80 bg-base-100 shadow-xl">
+      <div className="card max-w-[20rem] bg-base-100 h-[50vh] shadow-xl">
         <figure>
-          <img src="/book.png" alt="Shoes" className=" w-full object-cover" />
+          <img
+            src="/book.avif"
+            alt="Shoes"
+            className=" w-full object-cover object-top h-[30vh]"
+          />
         </figure>
         <div className="card-body">
           <h2 className="card-title">
